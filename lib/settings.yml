@@ -1,0 +1,12 @@
+
+default
+	hello: "sir"
+
+development
+	hello: "developer"
+
+production
+	hello: "customer"
+
+technically_correct
+	hello: "sir or madam"
